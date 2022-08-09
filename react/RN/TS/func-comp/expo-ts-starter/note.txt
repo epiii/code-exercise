@@ -1,0 +1,1 @@
+- tutorial : https://dev.to/allbitsequal/series-react-native-step-by-step-react-redux-toolkid-with-typescript-b20

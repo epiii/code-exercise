@@ -1,0 +1,1 @@
+- start emul : emulator.exe -avd Pixel_2_API_27_oreo_8.1_
